@@ -10,7 +10,7 @@
 - 📫 How to reach me **mtazharrudin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> [LinkedIn](https://www.linkedin.com/in/muhammad-tiflanil-azhar-rudin-21649123a/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
